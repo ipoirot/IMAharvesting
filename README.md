@@ -73,7 +73,7 @@ This repository contains the official implementation of our paper "Dynamic Virtu
 - Multi-layer transparency
 - Dynamic lighting
 - Real-time force visualization
-- 
+  
 ## Controls
 ### Keyboard Controls
 - `1`: Toggle fascia visibility
