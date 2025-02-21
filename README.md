@@ -50,14 +50,49 @@ This repository contains the official implementation of our paper "Dynamic Virtu
 
 ### Dependencies
 - iMSTK (Interactive Medical Simulation Toolkit)
-- VTK
+- VTK 
+- OpenHaptics (for haptic device support)
+- OpenGL
 - Eigen
-- (Optional) Haptic device SDK
 
 ## Key Components
+### Physics Simulation
+- Position-based dynamics for soft tissue deformation
+- Multi-layer anatomical structure simulation
+- Connective tissue modeling with strand-based approach
+- Collision detection and response
 
+### Surgical Interactions
+- Dual haptic device control
+- Grasping and cutting mechanics
+- Force feedback
+- Tool-tissue interactions
 
-## Usage
+### Visualization
+- PBR material support
+- Multi-layer transparency
+- Dynamic lighting
+- Real-time force visualization
+- 
+## Controls
+### Keyboard Controls
+- `1`: Toggle fascia visibility
+- `2`: Switch fascia rendering mode (PBR/Phong)
+- `3`: Toggle fat layer visibility
+- `4`: Toggle connective tissue strands
+- `5`: Remove connective tissue
+- `6`: Toggle surgical instruments
+- `7`: Toggle environment map
+- `8`: Toggle IMA visibility
+- `9`: Activate cutting
+- `0`: Cut connective tissue
+- Space: Play/Pause simulation
+- ESC: Exit
+
+### Haptic Device Controls
+- Device movement: Control surgical tools
+- Primary button: Grasp tissue
+- Secondary button: Cut tissue
 
 ## Important Notes
 - Haptic device support is optional and controlled by `USE_HAPTICS` flag
