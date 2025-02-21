@@ -11,7 +11,7 @@
 
 <sup>1</sup>Tsinghua University, <sup>2</sup>The Six medical center of PLA General Hospital
 
-[[Project](#)] [[Paper](#)] [[arXiv]([#](https://www.preprints.org/manuscript/202502.0335))] [[Video](https://www.youtube.com/playlist?list=PL6KpB8HbHVTTqnfAiExECcJxQTmd1E16l)] [[Supp](#)]
+[[Project](#)] [[Paper](#)] [[arXiv](https://www.preprints.org/manuscript/202502.0335)] [[Video](https://www.youtube.com/playlist?list=PL6KpB8HbHVTTqnfAiExECcJxQTmd1E16l)] [[Supp](#)]
 
 This repository contains the official implementation of our paper "Dynamic Virtual Simulation with Real-time Haptic Feedback for Robotic Internal Mammary Artery Harvesting", submitted to bioengineering.
 
