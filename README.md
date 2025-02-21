@@ -20,10 +20,10 @@ This repository contains the official implementation of our paper "Dynamic Virtu
 
 ## Features
 <p align="center">
-  <img src="assets/SkinningWeight.png" alt="Coronary artery deformation using skinning weight calculation">
+  <img src="assets/VirtualSurgicalSimulation Platform.png" alt="Hardware configuration of the virtual simulation platform">
 </p>
 <p align="center">
-  <img src="assets/video3.gif" width="600" alt="The complete deformation validation process can be visualized as shown in the animation">
+  <img src="assets/media2.gif" width="600" alt="Video Abstract">
 </p>
 
 
