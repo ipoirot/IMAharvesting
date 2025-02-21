@@ -22,9 +22,23 @@ This repository contains the official implementation of our paper "Dynamic Virtu
 <p align="center">
   <img src="assets/VirtualSurgicalSimulation Platform.png" alt="Hardware configuration of the virtual simulation platform">
 </p>
+- Topology-preserving cutting algorithm
 <p align="center">
-  <img src="assets/media2.gif" width="600" alt="Video Abstract">
+  <img src="assets/video1.gif" width="600" alt="Video Abstract">
 </p>
+- Bidirectional tissue coupling mechanism
+<p align="center">
+  <img src="assets/video2.gif" width="600" alt="Video Abstract">
+</p>
+- Dual-channel haptic feedback
+<p align="center">
+  <img src="assets/video3.gif" width="600" alt="Video Abstract">
+</p>
+- Dynamic cardiac model integration
+<p align="center">
+  <img src="assets/video4.gif" width="600" alt="Video Abstract">
+</p>
+
 
 
 ## Requirements
