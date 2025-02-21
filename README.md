@@ -42,20 +42,26 @@ This repository contains the official implementation of our paper "Dynamic Virtu
 
 
 ## Requirements
-
 ### System Requirements
-
+- Windows/Linux/MacOS
+- OpenGL support
+- C++ compiler with C++11 support
 
 ### Dependencies
+- iMSTK (Interactive Medical Simulation Toolkit)
+- VTK
+- Eigen
+- (Optional) Haptic device SDK
 
-
-## Installation
+## Key Components
 
 
 ## Usage
 
 ## Important Notes
-
+- Haptic device support is optional and controlled by `USE_HAPTICS` flag
+- Performance depends on mesh resolution and solver parameters
+- Real-time performance requires proper hardware support
 
 ## Citation
 If you find our work useful in your research, please consider to cite our paper:
