@@ -15,7 +15,7 @@
 This repository contains the official implementation of our paper "Dynamic Virtual Simulation with Real-time Haptic Feedback for Robotic Internal Mammary Artery Harvesting", submitted to bioengineering.
 
 **Note:** 
-- <span style="color: red">The complete code will be released upon paper acceptance.</span>
+
 
 ## Features
 <p align="center">
