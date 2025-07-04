@@ -1,6 +1,4 @@
 
-**Status:** ⚠️ **The complete code will be released upon paper acceptance** ⚠️
-
  # Dynamic Virtual Simulation with Real-time Haptic Feedback for Robotic Internal Mammary Artery Harvesting 
 
 [Shuo Wang](https://orcid.org/0009-0008-6187-0401)<sup>1</sup>,
